@@ -1,0 +1,501 @@
+Customer_ID,Touchpoints,Conversion
+1,"Direct Visit, Email, Social Media, Online Ad",0
+2,"Online Ad, Direct Visit, Social Media, Email",0
+3,"Social Media, Online Ad, Email, Direct Visit, Search Ad",0
+4,"Search Ad, Social Media, Direct Visit, Email, Online Ad",0
+5,"Direct Visit, Email, Social Media",0
+6,"Online Ad, Social Media, Search Ad, Direct Visit",1
+7,"Search Ad, Online Ad, Email, Direct Visit",0
+8,Direct Visit,1
+9,Search Ad,1
+10,"Online Ad, Social Media, Search Ad, Direct Visit",0
+11,Social Media,1
+12,"Social Media, Search Ad, Email, Direct Visit, Online Ad",1
+13,Online Ad,1
+14,"Direct Visit, Email, Social Media, Online Ad, Search Ad",0
+15,"Online Ad, Social Media, Search Ad, Direct Visit, Email",0
+16,Search Ad,1
+17,"Online Ad, Social Media, Direct Visit, Email",1
+18,"Social Media, Email",1
+19,"Online Ad, Direct Visit, Email, Search Ad, Social Media",1
+20,"Email, Search Ad",0
+21,"Direct Visit, Online Ad, Search Ad, Email, Social Media",1
+22,"Direct Visit, Online Ad, Social Media, Search Ad, Email",0
+23,Online Ad,1
+24,"Email, Direct Visit, Online Ad, Social Media, Search Ad",0
+25,"Email, Online Ad",0
+26,Social Media,0
+27,"Social Media, Online Ad, Search Ad",0
+28,Email,1
+29,"Social Media, Email",1
+30,"Search Ad, Email, Direct Visit, Online Ad, Social Media",1
+31,"Search Ad, Email, Social Media, Direct Visit, Online Ad",1
+32,Email,1
+33,"Email, Social Media, Search Ad, Online Ad, Direct Visit",0
+34,"Email, Search Ad",1
+35,"Direct Visit, Email, Social Media, Search Ad, Online Ad",0
+36,Online Ad,1
+37,"Direct Visit, Social Media, Email",0
+38,"Direct Visit, Email, Online Ad, Search Ad, Social Media",1
+39,"Online Ad, Search Ad",0
+40,"Search Ad, Social Media, Online Ad, Email",1
+41,Social Media,1
+42,"Online Ad, Search Ad",0
+43,Search Ad,0
+44,"Social Media, Email, Search Ad, Online Ad",0
+45,"Search Ad, Online Ad, Direct Visit, Social Media, Email",1
+46,"Social Media, Email, Search Ad",1
+47,Online Ad,1
+48,Search Ad,0
+49,"Social Media, Search Ad, Direct Visit",0
+50,"Search Ad, Online Ad, Direct Visit",1
+51,"Search Ad, Social Media, Online Ad",0
+52,"Direct Visit, Search Ad, Online Ad",0
+53,Email,1
+54,"Social Media, Online Ad, Email, Direct Visit, Search Ad",0
+55,"Direct Visit, Search Ad, Email, Social Media",0
+56,"Direct Visit, Email, Search Ad, Social Media, Online Ad",0
+57,"Social Media, Direct Visit, Online Ad",1
+58,"Search Ad, Email, Direct Visit, Social Media",0
+59,"Online Ad, Direct Visit, Email",1
+60,"Social Media, Email, Online Ad, Direct Visit",0
+61,Direct Visit,1
+62,"Online Ad, Email, Direct Visit, Search Ad",0
+63,Search Ad,1
+64,"Email, Social Media, Search Ad, Online Ad, Direct Visit",1
+65,"Social Media, Email, Search Ad",0
+66,"Email, Search Ad, Social Media, Online Ad",0
+67,Online Ad,1
+68,"Search Ad, Online Ad",0
+69,Social Media,1
+70,"Email, Search Ad, Direct Visit",0
+71,"Online Ad, Search Ad",1
+72,"Search Ad, Email, Online Ad",0
+73,"Direct Visit, Search Ad, Online Ad, Social Media, Email",0
+74,"Social Media, Search Ad, Direct Visit, Online Ad, Email",0
+75,"Social Media, Online Ad",0
+76,"Online Ad, Search Ad, Direct Visit",1
+77,Online Ad,1
+78,"Email, Search Ad, Social Media, Direct Visit, Online Ad",0
+79,"Online Ad, Search Ad, Social Media, Email, Direct Visit",1
+80,Direct Visit,0
+81,"Email, Online Ad",1
+82,"Search Ad, Email",1
+83,"Direct Visit, Online Ad, Social Media",0
+84,"Email, Search Ad, Online Ad, Social Media",1
+85,"Online Ad, Search Ad, Email, Social Media",0
+86,Direct Visit,0
+87,"Email, Online Ad, Social Media, Search Ad",0
+88,"Search Ad, Direct Visit",0
+89,Email,0
+90,Social Media,1
+91,"Email, Direct Visit",1
+92,Email,0
+93,"Search Ad, Online Ad, Social Media, Direct Visit",0
+94,"Social Media, Direct Visit, Email, Search Ad, Online Ad",0
+95,"Search Ad, Social Media, Direct Visit",0
+96,"Online Ad, Email",1
+97,Email,1
+98,"Direct Visit, Social Media, Email, Search Ad, Online Ad",0
+99,"Social Media, Email, Direct Visit",0
+100,"Social Media, Email, Direct Visit, Search Ad, Online Ad",1
+101,"Search Ad, Social Media, Email",0
+102,"Direct Visit, Social Media, Online Ad, Search Ad, Email",1
+103,"Direct Visit, Online Ad, Social Media, Search Ad, Email",1
+104,"Search Ad, Social Media, Email, Direct Visit, Online Ad",1
+105,"Email, Social Media, Direct Visit",1
+106,"Social Media, Direct Visit, Online Ad, Search Ad, Email",1
+107,Email,1
+108,"Email, Search Ad, Direct Visit, Online Ad, Social Media",1
+109,"Email, Direct Visit, Social Media",1
+110,"Social Media, Direct Visit",1
+111,"Search Ad, Direct Visit, Online Ad",1
+112,"Email, Search Ad, Online Ad, Direct Visit, Social Media",1
+113,"Online Ad, Direct Visit",0
+114,"Direct Visit, Social Media, Email, Online Ad",0
+115,"Online Ad, Search Ad",1
+116,"Email, Direct Visit, Social Media",1
+117,"Direct Visit, Search Ad, Social Media",1
+118,Social Media,1
+119,"Social Media, Online Ad",0
+120,"Email, Search Ad, Social Media",0
+121,"Social Media, Direct Visit, Online Ad, Email",1
+122,"Online Ad, Direct Visit",0
+123,Search Ad,0
+124,"Direct Visit, Search Ad, Email, Online Ad",1
+125,"Social Media, Email, Direct Visit, Online Ad",0
+126,"Email, Online Ad, Search Ad",1
+127,"Direct Visit, Email, Search Ad, Social Media",0
+128,"Online Ad, Email, Search Ad, Social Media, Direct Visit",1
+129,"Online Ad, Email, Search Ad, Direct Visit",0
+130,Direct Visit,0
+131,"Online Ad, Social Media, Direct Visit, Search Ad",1
+132,Email,0
+133,Direct Visit,0
+134,"Email, Social Media, Search Ad",0
+135,Search Ad,0
+136,"Direct Visit, Online Ad, Email, Search Ad, Social Media",0
+137,"Direct Visit, Email, Search Ad, Social Media, Online Ad",1
+138,Direct Visit,0
+139,"Email, Direct Visit",1
+140,"Direct Visit, Email, Social Media, Online Ad",0
+141,"Email, Online Ad, Search Ad",0
+142,Online Ad,1
+143,Online Ad,1
+144,"Social Media, Email, Direct Visit",1
+145,"Email, Social Media, Search Ad",1
+146,Social Media,0
+147,Email,0
+148,"Online Ad, Email, Search Ad",1
+149,"Social Media, Search Ad",0
+150,"Email, Direct Visit, Social Media, Online Ad",1
+151,"Email, Social Media",1
+152,"Online Ad, Direct Visit, Social Media",1
+153,"Search Ad, Online Ad, Email",1
+154,"Email, Search Ad, Online Ad, Social Media, Direct Visit",0
+155,"Social Media, Search Ad, Email, Direct Visit",0
+156,"Social Media, Search Ad, Email, Direct Visit, Online Ad",1
+157,"Email, Social Media, Online Ad, Search Ad",0
+158,"Email, Search Ad, Direct Visit, Social Media",0
+159,"Search Ad, Direct Visit, Online Ad",1
+160,"Search Ad, Direct Visit",1
+161,"Online Ad, Email, Direct Visit",1
+162,"Online Ad, Email, Social Media, Search Ad",0
+163,Direct Visit,0
+164,"Direct Visit, Social Media, Search Ad",0
+165,"Direct Visit, Email, Search Ad",1
+166,Online Ad,1
+167,Search Ad,0
+168,"Social Media, Direct Visit, Search Ad, Email, Online Ad",1
+169,"Social Media, Search Ad, Direct Visit, Online Ad",0
+170,"Social Media, Online Ad, Search Ad, Email, Direct Visit",0
+171,"Online Ad, Email",0
+172,"Search Ad, Direct Visit, Email, Online Ad",1
+173,"Email, Online Ad, Direct Visit",1
+174,"Social Media, Direct Visit, Online Ad, Search Ad, Email",0
+175,"Social Media, Direct Visit, Search Ad, Email",1
+176,Online Ad,0
+177,Email,1
+178,"Direct Visit, Search Ad, Social Media",0
+179,Online Ad,0
+180,"Online Ad, Social Media, Search Ad",1
+181,Email,0
+182,Online Ad,0
+183,"Search Ad, Online Ad, Email",0
+184,"Social Media, Search Ad, Email, Direct Visit, Online Ad",0
+185,"Search Ad, Social Media, Online Ad",0
+186,"Social Media, Email, Search Ad, Online Ad, Direct Visit",1
+187,"Direct Visit, Online Ad, Search Ad",1
+188,"Social Media, Email",1
+189,Direct Visit,1
+190,"Search Ad, Direct Visit, Email, Social Media",1
+191,"Direct Visit, Search Ad, Email",1
+192,"Direct Visit, Online Ad, Social Media, Email",1
+193,"Online Ad, Social Media, Search Ad, Direct Visit",1
+194,Search Ad,0
+195,"Email, Online Ad",0
+196,"Direct Visit, Email, Online Ad, Search Ad",0
+197,Direct Visit,0
+198,Online Ad,1
+199,Email,1
+200,"Email, Online Ad, Direct Visit, Social Media, Search Ad",1
+201,"Search Ad, Online Ad",1
+202,"Email, Direct Visit",0
+203,"Online Ad, Direct Visit, Email, Social Media",1
+204,"Direct Visit, Social Media, Search Ad, Email",0
+205,"Online Ad, Social Media, Email, Search Ad, Direct Visit",0
+206,"Direct Visit, Search Ad, Social Media",1
+207,"Social Media, Search Ad, Direct Visit, Email",1
+208,"Email, Direct Visit, Search Ad, Online Ad, Social Media",1
+209,"Online Ad, Email",0
+210,"Social Media, Online Ad",1
+211,"Email, Online Ad, Social Media, Direct Visit, Search Ad",1
+212,Search Ad,1
+213,"Direct Visit, Search Ad, Social Media, Online Ad, Email",0
+214,"Online Ad, Search Ad",1
+215,Email,1
+216,Social Media,1
+217,"Email, Online Ad, Direct Visit",1
+218,Social Media,1
+219,Direct Visit,0
+220,"Search Ad, Direct Visit",0
+221,"Social Media, Direct Visit, Email, Search Ad, Online Ad",1
+222,"Email, Online Ad, Social Media, Direct Visit, Search Ad",0
+223,"Email, Search Ad, Direct Visit",0
+224,"Email, Social Media, Online Ad",0
+225,"Social Media, Search Ad, Direct Visit",1
+226,"Online Ad, Direct Visit, Social Media",0
+227,"Online Ad, Social Media, Email, Direct Visit",1
+228,"Email, Search Ad, Social Media, Online Ad, Direct Visit",0
+229,Direct Visit,1
+230,"Direct Visit, Search Ad, Email, Online Ad",0
+231,Social Media,1
+232,Social Media,1
+233,"Social Media, Direct Visit, Online Ad, Email",0
+234,"Search Ad, Direct Visit, Email, Online Ad",1
+235,"Direct Visit, Social Media",0
+236,"Online Ad, Search Ad",0
+237,"Direct Visit, Email, Online Ad",0
+238,"Search Ad, Social Media, Online Ad",1
+239,"Direct Visit, Search Ad, Online Ad",0
+240,"Online Ad, Social Media, Email",1
+241,Search Ad,0
+242,Social Media,1
+243,"Social Media, Search Ad, Direct Visit, Email",1
+244,"Search Ad, Direct Visit, Email, Online Ad, Social Media",0
+245,"Email, Online Ad, Search Ad",1
+246,"Online Ad, Social Media, Search Ad, Email, Direct Visit",1
+247,"Online Ad, Search Ad, Email, Social Media, Direct Visit",0
+248,"Search Ad, Social Media, Email",1
+249,Search Ad,1
+250,"Online Ad, Search Ad, Direct Visit, Email, Social Media",1
+251,"Social Media, Search Ad, Online Ad, Email",1
+252,"Social Media, Direct Visit",1
+253,"Social Media, Search Ad, Online Ad, Email, Direct Visit",0
+254,"Online Ad, Social Media, Search Ad, Direct Visit",0
+255,Search Ad,1
+256,Search Ad,1
+257,"Online Ad, Direct Visit, Social Media, Search Ad, Email",1
+258,"Search Ad, Social Media",1
+259,"Direct Visit, Online Ad, Search Ad, Email",0
+260,"Social Media, Direct Visit, Online Ad",1
+261,"Online Ad, Search Ad",0
+262,"Email, Social Media, Search Ad, Direct Visit",0
+263,"Online Ad, Direct Visit",1
+264,"Online Ad, Search Ad",0
+265,"Online Ad, Email",1
+266,"Search Ad, Email, Online Ad",0
+267,"Online Ad, Email",1
+268,"Email, Search Ad, Direct Visit, Online Ad",1
+269,Social Media,0
+270,"Email, Search Ad, Social Media",1
+271,"Social Media, Search Ad, Direct Visit, Online Ad",1
+272,"Online Ad, Search Ad",0
+273,"Online Ad, Direct Visit",1
+274,"Email, Direct Visit, Social Media, Online Ad",0
+275,Search Ad,0
+276,Direct Visit,0
+277,"Social Media, Email, Online Ad, Direct Visit",0
+278,"Search Ad, Social Media, Email, Direct Visit, Online Ad",1
+279,"Social Media, Email",0
+280,"Search Ad, Social Media",0
+281,Direct Visit,1
+282,"Email, Direct Visit, Online Ad, Search Ad, Social Media",0
+283,"Online Ad, Direct Visit, Email",0
+284,Direct Visit,0
+285,Online Ad,1
+286,"Social Media, Direct Visit, Email",0
+287,"Online Ad, Social Media, Search Ad, Direct Visit, Email",1
+288,"Direct Visit, Search Ad, Email",0
+289,"Search Ad, Online Ad, Direct Visit",0
+290,"Email, Online Ad, Direct Visit, Search Ad",0
+291,"Direct Visit, Email, Social Media, Online Ad",0
+292,"Email, Search Ad, Social Media, Direct Visit",1
+293,"Search Ad, Online Ad, Direct Visit",1
+294,"Search Ad, Online Ad",1
+295,"Online Ad, Social Media, Email, Direct Visit",0
+296,"Search Ad, Online Ad",0
+297,"Social Media, Online Ad",1
+298,Search Ad,1
+299,Search Ad,0
+300,"Online Ad, Search Ad",1
+301,"Online Ad, Search Ad, Social Media",1
+302,"Search Ad, Direct Visit, Email, Online Ad",0
+303,"Search Ad, Email",1
+304,"Social Media, Online Ad, Email, Search Ad",1
+305,"Search Ad, Social Media, Email",0
+306,"Direct Visit, Online Ad, Email, Search Ad, Social Media",1
+307,"Search Ad, Email",0
+308,"Search Ad, Direct Visit, Social Media, Online Ad, Email",1
+309,"Email, Direct Visit, Online Ad",1
+310,"Online Ad, Search Ad, Social Media",0
+311,"Direct Visit, Social Media",0
+312,Search Ad,0
+313,"Search Ad, Direct Visit",0
+314,"Direct Visit, Email, Online Ad",1
+315,"Search Ad, Social Media, Email, Direct Visit",1
+316,"Social Media, Search Ad, Online Ad, Direct Visit, Email",0
+317,Social Media,0
+318,"Social Media, Online Ad, Email, Search Ad, Direct Visit",1
+319,"Direct Visit, Social Media, Online Ad, Search Ad, Email",1
+320,"Social Media, Direct Visit",0
+321,Direct Visit,0
+322,"Online Ad, Search Ad, Social Media, Direct Visit",0
+323,"Online Ad, Email, Social Media, Direct Visit, Search Ad",1
+324,Online Ad,0
+325,"Direct Visit, Search Ad",1
+326,"Direct Visit, Email, Online Ad, Social Media",0
+327,"Search Ad, Social Media, Online Ad",0
+328,"Online Ad, Email, Social Media",1
+329,"Search Ad, Social Media, Email, Online Ad",0
+330,"Online Ad, Search Ad, Email, Direct Visit, Social Media",0
+331,Search Ad,0
+332,"Email, Online Ad, Search Ad, Social Media",1
+333,"Social Media, Online Ad, Search Ad, Email",1
+334,"Social Media, Direct Visit, Search Ad, Email, Online Ad",0
+335,"Social Media, Direct Visit",0
+336,Search Ad,0
+337,Search Ad,1
+338,"Social Media, Online Ad, Direct Visit, Email",0
+339,Search Ad,0
+340,"Online Ad, Social Media",1
+341,"Online Ad, Search Ad, Social Media",0
+342,"Direct Visit, Social Media, Search Ad, Email, Online Ad",1
+343,"Social Media, Email, Search Ad, Direct Visit, Online Ad",0
+344,"Search Ad, Social Media, Direct Visit, Email",0
+345,"Social Media, Direct Visit, Online Ad",1
+346,Search Ad,1
+347,Search Ad,0
+348,"Email, Search Ad, Direct Visit",0
+349,"Search Ad, Online Ad, Direct Visit, Social Media",1
+350,"Direct Visit, Online Ad, Search Ad",1
+351,Social Media,1
+352,"Email, Social Media, Online Ad",0
+353,"Email, Online Ad",0
+354,"Social Media, Email, Search Ad, Direct Visit, Online Ad",0
+355,"Email, Social Media, Direct Visit, Search Ad",0
+356,"Email, Direct Visit, Social Media, Online Ad",0
+357,"Search Ad, Direct Visit, Social Media",1
+358,"Email, Direct Visit",0
+359,"Social Media, Direct Visit, Email",0
+360,"Email, Search Ad, Direct Visit",0
+361,"Email, Social Media, Direct Visit",0
+362,"Email, Online Ad, Social Media, Direct Visit, Search Ad",0
+363,Email,1
+364,"Direct Visit, Online Ad, Email, Search Ad, Social Media",1
+365,"Online Ad, Email, Social Media",1
+366,Social Media,1
+367,"Online Ad, Email, Direct Visit, Social Media, Search Ad",1
+368,"Search Ad, Social Media",0
+369,"Social Media, Search Ad",0
+370,"Search Ad, Online Ad",1
+371,Direct Visit,1
+372,"Email, Social Media, Search Ad, Direct Visit",1
+373,"Social Media, Search Ad, Direct Visit",1
+374,"Social Media, Direct Visit",1
+375,"Online Ad, Social Media, Direct Visit, Email",1
+376,"Search Ad, Email",1
+377,"Social Media, Search Ad, Email, Online Ad",1
+378,"Search Ad, Email, Direct Visit",0
+379,Email,0
+380,"Search Ad, Social Media, Email, Direct Visit, Online Ad",0
+381,"Direct Visit, Online Ad, Search Ad, Email",1
+382,"Online Ad, Social Media",1
+383,"Direct Visit, Email, Search Ad, Social Media, Online Ad",1
+384,Direct Visit,1
+385,"Social Media, Direct Visit, Search Ad, Email",0
+386,"Social Media, Direct Visit, Search Ad, Email",0
+387,"Online Ad, Search Ad, Direct Visit",1
+388,Search Ad,0
+389,"Direct Visit, Social Media, Search Ad, Email, Online Ad",1
+390,"Email, Search Ad, Direct Visit, Social Media",1
+391,Direct Visit,1
+392,"Direct Visit, Email, Online Ad, Social Media",1
+393,"Direct Visit, Social Media, Email, Search Ad, Online Ad",1
+394,"Social Media, Online Ad, Direct Visit, Email",0
+395,"Online Ad, Social Media, Search Ad",0
+396,"Direct Visit, Email, Search Ad",0
+397,"Social Media, Online Ad, Search Ad",0
+398,"Email, Online Ad, Direct Visit, Social Media",1
+399,Direct Visit,0
+400,"Direct Visit, Social Media, Search Ad",0
+401,"Social Media, Email",0
+402,"Online Ad, Social Media, Email, Direct Visit, Search Ad",0
+403,"Email, Search Ad, Social Media, Direct Visit",1
+404,"Social Media, Search Ad",1
+405,"Social Media, Email",1
+406,"Social Media, Direct Visit, Search Ad, Online Ad, Email",1
+407,Direct Visit,1
+408,"Social Media, Online Ad, Direct Visit",0
+409,"Online Ad, Social Media, Direct Visit, Search Ad, Email",1
+410,"Online Ad, Direct Visit, Social Media, Search Ad",0
+411,"Direct Visit, Email, Online Ad, Search Ad",0
+412,"Email, Search Ad",1
+413,"Search Ad, Email",1
+414,"Search Ad, Social Media, Direct Visit",1
+415,Email,1
+416,Email,1
+417,"Direct Visit, Online Ad, Email",0
+418,"Online Ad, Search Ad, Direct Visit, Social Media",0
+419,"Social Media, Email",1
+420,"Social Media, Email, Online Ad, Direct Visit, Search Ad",0
+421,"Social Media, Direct Visit, Online Ad, Search Ad, Email",0
+422,Search Ad,1
+423,"Direct Visit, Social Media",1
+424,"Search Ad, Email, Social Media, Direct Visit",1
+425,"Direct Visit, Online Ad, Email, Social Media, Search Ad",0
+426,"Search Ad, Email, Social Media, Online Ad",0
+427,"Direct Visit, Search Ad, Social Media, Email, Online Ad",1
+428,"Online Ad, Social Media, Direct Visit, Email, Search Ad",1
+429,Email,0
+430,"Direct Visit, Search Ad, Online Ad, Email",0
+431,"Direct Visit, Social Media, Email",0
+432,"Social Media, Online Ad, Email",1
+433,"Email, Social Media",1
+434,"Search Ad, Social Media, Email, Online Ad, Direct Visit",0
+435,"Search Ad, Direct Visit, Online Ad, Email, Social Media",1
+436,"Online Ad, Search Ad, Email, Direct Visit, Social Media",0
+437,"Direct Visit, Online Ad",1
+438,"Social Media, Email, Search Ad",0
+439,"Search Ad, Online Ad, Email",1
+440,Online Ad,1
+441,"Direct Visit, Social Media, Online Ad, Search Ad, Email",1
+442,"Social Media, Online Ad",1
+443,"Direct Visit, Online Ad",0
+444,"Direct Visit, Social Media, Email",0
+445,"Online Ad, Direct Visit, Email, Social Media",0
+446,"Direct Visit, Online Ad, Social Media",1
+447,"Online Ad, Email, Social Media, Search Ad",1
+448,Direct Visit,1
+449,"Online Ad, Social Media",1
+450,"Online Ad, Direct Visit",0
+451,"Email, Direct Visit",0
+452,"Direct Visit, Search Ad, Online Ad, Email",0
+453,"Search Ad, Online Ad, Social Media, Email",0
+454,"Search Ad, Email, Direct Visit",0
+455,"Online Ad, Direct Visit, Email, Social Media",0
+456,Search Ad,1
+457,Direct Visit,1
+458,Online Ad,0
+459,"Online Ad, Social Media",1
+460,Social Media,0
+461,"Email, Social Media, Search Ad",0
+462,Direct Visit,1
+463,"Email, Social Media, Search Ad, Online Ad, Direct Visit",0
+464,"Social Media, Email, Online Ad, Search Ad",1
+465,Search Ad,0
+466,"Social Media, Search Ad",0
+467,"Direct Visit, Search Ad, Email, Social Media",0
+468,"Direct Visit, Email",0
+469,"Online Ad, Email, Search Ad, Social Media, Direct Visit",1
+470,"Direct Visit, Social Media, Online Ad",0
+471,"Email, Online Ad, Search Ad, Direct Visit, Social Media",0
+472,Social Media,1
+473,"Social Media, Direct Visit, Email, Search Ad, Online Ad",1
+474,"Search Ad, Email, Online Ad, Direct Visit",0
+475,"Email, Direct Visit, Social Media, Search Ad",0
+476,"Search Ad, Online Ad, Email, Social Media",1
+477,"Direct Visit, Email, Online Ad",0
+478,"Online Ad, Social Media, Direct Visit, Email, Search Ad",1
+479,"Direct Visit, Email, Social Media, Search Ad",0
+480,"Direct Visit, Search Ad, Email, Social Media, Online Ad",1
+481,"Direct Visit, Search Ad, Email",0
+482,"Direct Visit, Online Ad",1
+483,"Direct Visit, Social Media, Online Ad",1
+484,Social Media,1
+485,"Search Ad, Email, Direct Visit",0
+486,"Online Ad, Email",1
+487,"Search Ad, Social Media, Direct Visit",0
+488,"Social Media, Direct Visit, Search Ad, Email",1
+489,"Direct Visit, Email",1
+490,"Search Ad, Social Media, Online Ad",0
+491,"Social Media, Direct Visit, Email",0
+492,"Direct Visit, Social Media, Online Ad, Search Ad, Email",0
+493,"Direct Visit, Online Ad",1
+494,"Social Media, Email, Direct Visit, Online Ad, Search Ad",1
+495,"Direct Visit, Social Media",0
+496,Search Ad,0
+497,"Online Ad, Search Ad, Social Media, Email",0
+498,"Online Ad, Search Ad",0
+499,"Direct Visit, Search Ad, Online Ad, Social Media",0
+500,"Email, Social Media, Search Ad, Online Ad",0
